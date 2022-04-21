@@ -12,5 +12,4 @@ A simple project to connect to a smart contract and connect Dapp to any Wallet o
  2. in "WEB3PROVIDER" Function, User Can connect the Wallet and read/write to contract
 
 
-MuhammadAli Alizadeh(Zig Blathazar)//0
-ZigBalthazar@gmail.com
+MuhammadAli Alizadeh(Zig Blathazar) ## ZigBalthazar@gmail.com
